@@ -1,0 +1,11 @@
+owner = NET
+terrain = urban
+
+controller = NET
+
+add_core = NET
+
+trade_goods = fish
+
+life_rating = 40
+naval_base = 1
